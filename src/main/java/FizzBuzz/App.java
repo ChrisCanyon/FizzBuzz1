@@ -1,6 +1,5 @@
 package FizzBuzz;
 import FizzBuzz.FizzBuzzPrinter;
-import sun.awt.windows.WPrinterJob;
 
 public class App
 {
