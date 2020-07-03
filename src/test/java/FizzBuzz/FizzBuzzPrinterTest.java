@@ -84,8 +84,8 @@ public class FizzBuzzPrinterTest
 
     @Test
     public void getFizzBuzzOutputShouldReturnX() {
-        assertEquals("fizzbuzz", FBP.getFizzBuzzResult(15));
-        assertEquals("fizzbuzz", FBP.getFizzBuzzResult(30));
-        assertEquals("fizzbuzz", FBP.getFizzBuzzResult(45));
+        assertEquals("7919", FBP.getFizzBuzzResult(7919));
+        assertEquals("7907", FBP.getFizzBuzzResult(7907));
+        assertEquals("7901", FBP.getFizzBuzzResult(7901));
     }
 }
